@@ -11,6 +11,8 @@ def square_array(array)
   number = array[count]  
   
   number = number * number
+  
+  numbe
 
   
     count += 1 
