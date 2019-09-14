@@ -9,6 +9,8 @@ def square_array(array)
   while count < array.length
   
   number = array[count]  
+  
+  number = number * number
 
   
     count += 1 
