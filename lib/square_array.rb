@@ -12,10 +12,10 @@ def square_array(array)
   
   new_array.push(number)
 
-  
-  
     count += 1 
     
-  end
+    end
+
+return 
 
 end
