@@ -12,7 +12,7 @@ def square_array(array)
   
   number = number * number
   
-  numbe
+  number = number.push 
 
   
     count += 1 
